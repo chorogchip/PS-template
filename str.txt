@@ -1,0 +1,4 @@
+문제를 변환하기.
+
+prefix sum / sqrt decomposition / segment tree / sqrt tree
+
